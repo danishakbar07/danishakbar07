@@ -1,20 +1,40 @@
-I am a passionate and experienced MEAN Stack Developer with a proven track record of
-creating and maintaining high-quality web applications. Over the past two years, I have
-developed expertise in JavaScript, Angular, Node.js, and MongoDB, along with various
-front-end and back-end technologies.
 
-In addition to my technical abilities, I have a strong commitment to teamwork and collaboration. I
-have worked closely with cross-functional teams to gather requirements, identify challenges,
-and deliver solutions that enhance user experiences and ensure smooth platform performance. I
-enjoy troubleshooting, optimizing performance, and ensuring that each application meets the
-needs of both users and the business.
 
-I am constantly seeking to learn and grow in the ever-evolving world of software development.
-Whether it's mastering new technologies or refining my current skill set, I am driven by the
-desire to contribute to innovative and impactful projects. My goal is to work on challenging
-projects that push the boundaries of what is possible, while continuing to enhance my own
-knowledge and abilities.
 
-If you’re looking for a developer who is committed to quality, collaboration, and continuous
-improvement, I would love to connect and explore opportunities where I can contribute and grow
-as part of a dynamic team.
+# Hi there, I'm Danish Akbar 👋
+
+### Passionate MEAN Stack Developer | Crafting Scalable Web Applications
+
+With **2+ years of hands-on experience**, I specialize in creating and maintaining high-quality, full-stack web applications using **JavaScript**, **Angular**, **Node.js**, and **MongoDB**. My work spans a diverse range of front-end and back-end technologies, enabling me to deliver seamless, user-friendly solutions that balance innovation with reliability.
+
+### What I Do
+- **Frontend Development**: Bringing intuitive user interfaces to life with **Angular** and **Material UI**, ensuring top-notch performance and responsiveness.
+- **Backend Development**: Architecting scalable, secure, and robust server-side logic using **Node.js**, **Express.js**, and **MongoDB**.
+- **Collaboration & Teamwork**: Partnering with cross-functional teams to define requirements, troubleshoot issues, and deliver optimized solutions.
+- **Problem Solver**: I thrive on solving complex problems, whether it’s debugging, optimizing performance, or enhancing user experience.
+
+---
+
+### My Development Toolkit
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: Angular, AngularJS
+- **Backend**: Node.js, Express.js, REST APIs
+- **Database**: MongoDB, Mongoose,
+- **Technologies**: Redis,AWS,AZURE,RabitMQ
+- **Tools**: Git, PM2, vs code
+
+---
+
+### My Mission
+I’m committed to **continuous learning** and growing in the ever-evolving world of software development. Whether it’s adopting the latest technologies or refining my expertise, I aim to **push the boundaries** of what’s possible. My passion is not just in coding but in **building innovative solutions** that solve real-world problems.
+
+---
+
+### Let's Connect
+If you're looking for a developer who's passionate about quality, thrives in collaborative environments, and is always ready to tackle the next challenge—**let's connect**! I’d love to contribute to your project and grow alongside a dynamic team.
+
+[![LinkedIn](https://www.linkedin.com/in/danish-akbar-449394229/)  
+
+
+---
+
