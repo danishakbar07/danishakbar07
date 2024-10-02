@@ -33,7 +33,8 @@ I’m committed to **continuous learning** and growing in the ever-evolving worl
 ### Let's Connect
 If you're looking for a developer who's passionate about quality, thrives in collaborative environments, and is always ready to tackle the next challenge—**let's connect**! I’d love to contribute to your project and grow alongside a dynamic team.
 
-[![LinkedIn](https://www.linkedin.com/in/danish-akbar-449394229/)  
+📧 Email: danishakbar.dev@gmail.com
+  LinkedIn: https://www.linkedin.com/in/danish-akbar-449394229/ 
 
 
 ---
